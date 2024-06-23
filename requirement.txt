@@ -1,0 +1,8 @@
+stremlit-mic-recorder
+InstructorEmbedding
+ctransformers
+langchain
+streamlit
+pypdfium2
+librosa
+pyyaml
